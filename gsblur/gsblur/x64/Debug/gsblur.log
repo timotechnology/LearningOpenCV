@@ -1,0 +1,6 @@
+﻿  gsblur.cpp
+c:\users\administrator\documents\visual studio 2017\projects\gsblur\gsblur\gsblur.cpp(98): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\administrator\documents\visual studio 2017\projects\gsblur\gsblur\gsblur.cpp(150): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2017\projects\gsblur\gsblur\gsblur.cpp(173): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  gsblur.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\gsblur\x64\Debug\gsblur.exe
+  gsblur.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\gsblur\x64\Debug\gsblur.pdb (Partial PDB)

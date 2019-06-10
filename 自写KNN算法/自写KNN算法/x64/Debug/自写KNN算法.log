@@ -1,0 +1,6 @@
+﻿  自写KNN算法.cpp
+c:\users\administrator\documents\visual studio 2017\projects\自写knn算法\自写knn算法\自写knn算法.cpp(51): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\administrator\documents\visual studio 2017\projects\自写knn算法\自写knn算法\自写knn算法.cpp(100): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2017\projects\自写knn算法\自写knn算法\自写knn算法.cpp(123): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  自写KNN算法.vcxproj -> C:\Users\Administrator\documents\visual studio 2017\Projects\自写KNN算法\x64\Debug\自写KNN算法.exe
+  自写KNN算法.vcxproj -> C:\Users\Administrator\documents\visual studio 2017\Projects\自写KNN算法\x64\Debug\自写KNN算法.pdb (Partial PDB)
