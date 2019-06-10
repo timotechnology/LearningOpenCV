@@ -1,3 +1,3 @@
-Git is a version control system.
-Git is free software,yes,excellent£¡
-Git is very good.
+Learning OpenCV with C++.
+It's cool!
+Welcome to share your knowledge with me!
